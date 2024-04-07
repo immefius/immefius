@@ -2,10 +2,9 @@
 
 - 🔭 Em busca do meu primeiro emprego como desenvolvedor ...
 - 🌱 Estudando Java, MySQL ...
-- 📫 Como me encontrar: https://www.linkedin.com/in/matheus-rodrigues-047776111 ...
 - 😄 Pronomes: Ele/Dele ...
-
-- ##
+ 
+##
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=immefius&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
@@ -31,7 +30,6 @@
 ##
 
 <div> 
-  <a href="https://discord.gg/immefius" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matheus.rodrigues1228@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/matheus-rodrigues-047776111" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
